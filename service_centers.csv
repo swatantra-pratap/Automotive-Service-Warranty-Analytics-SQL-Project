@@ -1,0 +1,16 @@
+service_center_id,service_center_name,city,state,region,daily_capacity
+1,Whitefield Service Hub,Gurugram,Haryana,North,26
+2,Hosur Road Service Hub,Mumbai,Maharashtra,West,41
+3,Koramangala Service Hub,Mysuru,Karnataka,South,53
+4,Pune Central Service,Mumbai,Maharashtra,West,42
+5,Baner Service Hub,Mumbai,Maharashtra,West,49
+6,Andheri Service Hub,Bengaluru,Karnataka,South,45
+7,Chennai OMR Service,New Delhi,Delhi,North,38
+8,Coimbatore Service Hub,New Delhi,Delhi,North,35
+9,Hyderabad Hitech Service,Hyderabad,Telangana,South,47
+10,Gurugram Service Hub,Chennai,Tamil Nadu,South,54
+11,Noida Expressway Service,Bengaluru,Karnataka,South,39
+12,Lucknow Service Hub,Chennai,Tamil Nadu,South,34
+13,Ahmedabad East Service,Pune,Maharashtra,West,29
+14,Mumbai Central Service,Lucknow,Uttar Pradesh,North,31
+15,Mysuru Service Hub,Nagpur,Maharashtra,West,29

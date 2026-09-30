@@ -1,0 +1,181 @@
+technician_id,technician_name,service_center_id,experience_years,specialization
+1,Arjun Sharma,4,9,Brakes
+2,Kavya Malhotra,1,5,Diagnostics
+3,Arjun Malhotra,3,14,Brakes
+4,Shreya Gupta,5,7,Diagnostics
+5,Shreya Nair,5,4,Diagnostics
+6,Isha Reddy,3,13,Engine
+7,Ananya Joshi,12,10,Brakes
+8,Pooja Agarwal,2,8,Engine
+9,Arjun Malhotra,2,12,General Service
+10,Neha Sharma,10,14,AC
+11,Aarav Joshi,9,12,Diagnostics
+12,Nitin Kumar,10,1,Engine
+13,Arjun Iyer,11,1,Engine
+14,Rahul Mehta,6,2,Engine
+15,Vikram Rao,11,9,Engine
+16,Riya Sharma,4,4,Brakes
+17,Ananya Patel,4,8,AC
+18,Ananya Singh,3,5,Diagnostics
+19,Pooja Chauhan,7,3,Engine
+20,Amit Mehta,13,15,Brakes
+21,Karan Joshi,10,13,Diagnostics
+22,Meera Mehta,13,8,AC
+23,Arjun Mehta,3,6,Electrical
+24,Neha Verma,13,7,General Service
+25,Neha Rao,2,1,Electrical
+26,Kavya Nair,11,11,General Service
+27,Ankit Mehta,8,13,Brakes
+28,Vikram Patel,2,6,Brakes
+29,Suresh Singh,6,8,General Service
+30,Priya Reddy,14,1,Diagnostics
+31,Riya Joshi,12,1,AC
+32,Riya Agarwal,3,13,General Service
+33,Amit Nair,10,14,AC
+34,Sneha Rao,8,13,Electrical
+35,Amit Mehta,8,5,AC
+36,Vikram Malhotra,2,15,Electrical
+37,Kavya Mehta,14,8,General Service
+38,Vikram Patel,4,6,General Service
+39,Karan Chauhan,9,10,AC
+40,Ananya Joshi,2,1,Electrical
+41,Riya Nair,13,7,Diagnostics
+42,Suresh Verma,10,11,General Service
+43,Vikram Agarwal,4,7,Engine
+44,Karan Rao,5,11,Brakes
+45,Rahul Iyer,2,4,Engine
+46,Amit Agarwal,6,6,General Service
+47,Rohan Mehta,12,11,Engine
+48,Isha Nair,2,6,Brakes
+49,Vikram Kumar,5,6,Engine
+50,Pooja Gupta,10,11,Electrical
+51,Riya Gupta,6,6,General Service
+52,Meera Nair,11,7,Electrical
+53,Sneha Joshi,13,7,Diagnostics
+54,Vikram Malhotra,11,11,Engine
+55,Suresh Nair,9,12,Electrical
+56,Vikram Singh,6,13,Engine
+57,Rohan Agarwal,2,9,AC
+58,Ananya Joshi,9,4,Engine
+59,Sneha Kumar,3,1,Brakes
+60,Ankit Sharma,13,6,Brakes
+61,Rohan Nair,13,3,Diagnostics
+62,Pooja Sharma,15,14,Brakes
+63,Amit Iyer,15,14,Brakes
+64,Rahul Rao,9,1,Brakes
+65,Amit Nair,13,8,Engine
+66,Pooja Reddy,5,6,General Service
+67,Aarav Chauhan,14,10,General Service
+68,Amit Joshi,6,8,Engine
+69,Nitin Mehta,8,6,AC
+70,Karan Mehta,2,14,General Service
+71,Neha Rao,11,9,Electrical
+72,Pooja Verma,10,15,AC
+73,Kavya Iyer,10,14,AC
+74,Shreya Kumar,7,8,Brakes
+75,Priya Rao,3,6,Engine
+76,Pooja Patel,7,3,Engine
+77,Rahul Reddy,7,4,Diagnostics
+78,Suresh Kumar,10,5,General Service
+79,Pooja Chauhan,14,9,Electrical
+80,Ananya Agarwal,10,4,Electrical
+81,Rahul Verma,5,1,Diagnostics
+82,Arjun Malhotra,14,4,General Service
+83,Isha Rao,3,6,Diagnostics
+84,Riya Kumar,2,2,AC
+85,Priya Joshi,1,1,General Service
+86,Isha Kumar,1,11,Engine
+87,Rohan Kumar,9,15,Engine
+88,Suresh Rao,14,5,Engine
+89,Riya Agarwal,2,7,Electrical
+90,Nitin Iyer,13,10,Electrical
+91,Rohan Verma,13,11,AC
+92,Meera Singh,12,4,General Service
+93,Shreya Verma,15,6,AC
+94,Amit Verma,12,7,AC
+95,Ananya Nair,4,13,Electrical
+96,Karan Iyer,14,8,General Service
+97,Pooja Kumar,14,4,AC
+98,Amit Singh,3,2,Diagnostics
+99,Riya Patel,12,10,General Service
+100,Pooja Rao,5,14,AC
+101,Sneha Patel,6,1,Diagnostics
+102,Rahul Verma,1,13,Engine
+103,Arjun Iyer,14,15,Diagnostics
+104,Sneha Kumar,10,8,Brakes
+105,Aarav Iyer,5,9,Electrical
+106,Arjun Reddy,4,6,Engine
+107,Isha Reddy,10,10,Engine
+108,Aarav Singh,7,2,Brakes
+109,Priya Malhotra,9,9,Engine
+110,Isha Kumar,1,11,Engine
+111,Arjun Iyer,6,5,Engine
+112,Ananya Joshi,9,13,Brakes
+113,Karan Sharma,14,8,Engine
+114,Neha Mehta,9,2,Electrical
+115,Amit Agarwal,4,6,Brakes
+116,Karan Nair,15,3,General Service
+117,Riya Iyer,12,1,Engine
+118,Ananya Iyer,14,10,Electrical
+119,Shreya Gupta,2,6,Electrical
+120,Priya Chauhan,5,3,Electrical
+121,Shreya Verma,11,7,Engine
+122,Suresh Reddy,10,14,General Service
+123,Kavya Gupta,12,8,Electrical
+124,Amit Agarwal,7,11,AC
+125,Amit Reddy,9,10,Diagnostics
+126,Pooja Mehta,11,2,Brakes
+127,Shreya Gupta,14,1,Electrical
+128,Shreya Patel,2,7,Brakes
+129,Priya Iyer,8,8,General Service
+130,Karan Malhotra,6,13,General Service
+131,Pooja Kumar,14,14,Electrical
+132,Sneha Agarwal,3,7,Brakes
+133,Amit Reddy,5,6,Engine
+134,Arjun Singh,7,8,Brakes
+135,Aarav Mehta,5,15,General Service
+136,Rahul Iyer,3,8,AC
+137,Riya Kumar,6,6,Diagnostics
+138,Vikram Malhotra,6,14,General Service
+139,Shreya Reddy,3,10,Engine
+140,Amit Patel,4,5,Brakes
+141,Rahul Singh,12,12,Brakes
+142,Rahul Joshi,13,12,AC
+143,Karan Sharma,11,10,Diagnostics
+144,Nitin Chauhan,5,6,Electrical
+145,Ananya Malhotra,3,12,AC
+146,Meera Mehta,8,14,Brakes
+147,Meera Rao,1,1,Brakes
+148,Aarav Mehta,4,2,AC
+149,Suresh Nair,9,2,Diagnostics
+150,Nitin Malhotra,11,14,Electrical
+151,Shreya Gupta,5,6,General Service
+152,Amit Gupta,13,4,Brakes
+153,Vikram Reddy,6,8,Electrical
+154,Sneha Reddy,1,3,Brakes
+155,Rahul Verma,6,10,Electrical
+156,Isha Mehta,8,4,Brakes
+157,Rohan Joshi,8,8,General Service
+158,Neha Nair,15,6,Brakes
+159,Sneha Singh,7,3,Diagnostics
+160,Nitin Singh,8,5,Engine
+161,Karan Sharma,7,14,Diagnostics
+162,Suresh Kumar,15,6,Electrical
+163,Arjun Sharma,3,1,Brakes
+164,Isha Agarwal,9,10,Diagnostics
+165,Vikram Verma,6,15,Diagnostics
+166,Vikram Verma,10,8,Engine
+167,Vikram Mehta,4,14,General Service
+168,Pooja Chauhan,7,7,Electrical
+169,Ankit Rao,12,10,AC
+170,Meera Singh,12,2,General Service
+171,Neha Malhotra,14,1,Engine
+172,Sneha Gupta,12,3,Electrical
+173,Karan Reddy,14,6,General Service
+174,Amit Agarwal,13,11,Engine
+175,Arjun Agarwal,15,2,Electrical
+176,Ananya Reddy,6,5,Engine
+177,Amit Gupta,15,7,Brakes
+178,Amit Malhotra,13,13,Brakes
+179,Rahul Chauhan,12,3,Engine
+180,Neha Mehta,13,5,Engine

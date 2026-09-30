@@ -1,0 +1,26 @@
+part_id,part_name,part_category,unit_cost,supplier
+1,Engine Oil Filter,Engine,350,Supplier A
+2,Air Filter,Engine,650,Supplier B
+3,Brake Pad Set,Brakes,2800,Supplier C
+4,Brake Disc,Brakes,5200,Supplier D
+5,AC Filter,AC,450,Supplier E
+6,AC Compressor,AC,18500,Supplier F
+7,Spark Plug Set,Engine,1800,Supplier A
+8,Battery,Electrical,6200,Supplier B
+9,Alternator,Electrical,9200,Supplier C
+10,Starter Motor,Electrical,11800,Supplier D
+11,Clutch Kit,Engine,14500,Supplier E
+12,Radiator,Engine,9800,Supplier F
+13,Headlamp Assembly,Electrical,7600,Supplier A
+14,Fuel Pump,Engine,6800,Supplier B
+15,Wheel Bearing,Brakes,3200,Supplier C
+16,Suspension Kit,General,8900,Supplier D
+17,Wiper Blade Set,General,900,Supplier E
+18,Cabin Filter,AC,550,Supplier F
+19,Drive Belt,Engine,1450,Supplier A
+20,Coolant,Engine,850,Supplier B
+21,Diagnostic Sensor,Diagnostics,4200,Supplier C
+22,Door Handle,Body,1100,Supplier D
+23,Bumper Assembly,Body,7200,Supplier E
+24,Side Mirror,Body,3600,Supplier F
+25,Windshield,Body,11500,Supplier A
